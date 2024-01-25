@@ -4,8 +4,10 @@
 
 - [x] Install Jenkins on Mac
 - [x] Run a Basic Pipeline
-- [ ] Read [Fastlane Jenkins Docs](https://docs.fastlane.tools/best-practices/continuous-integration/jenkins/)
-- [ ] Run test project with [Fastlane](https://www.youtube.com/watch?v=yNqCpMLmJqE)
+- [x] Read [Fastlane Jenkins Docs](https://docs.fastlane.tools/best-practices/continuous-integration/jenkins/)
+- [x] Setup Multibranch Pipeline with initial Jenkinsfile [step-by-step tutorial for setting Jenkins](https://medium.com/@sumit16.kumar/ci-cd-using-fastlane-jenkins-ios-69c86ae0cdcc)
+- [ ] Select dummy project to build
+- [ ] Update Jenkinsfile with [Fastlane](https://www.youtube.com/watch?v=yNqCpMLmJqE)
 - [ ] Create Build Step which installs all the necessary packages etc. on the Mac system
 - [ ] Explore [parallel test execution in fastlane](https://dilshan-fdo.medium.com/ios-mobile-testing-parallel-execution-with-fastlane-bb92d5eef997)
 - [ ] Parametrize steps to create a [smooth build experience with FastLane](https://www.runway.team/blog/how-to-build-the-perfect-fastlane-pipeline-for-ios#configuring-fastlane-for-a-project)
